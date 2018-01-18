@@ -6,7 +6,6 @@
   "scripts": {
     "shot":"n use 9.3.0 screenshot.js",
     "image":"n use 9.3.0 handler_image.js",
-    "task-mgstage":"n use 9.3.0 task_mgstage.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
